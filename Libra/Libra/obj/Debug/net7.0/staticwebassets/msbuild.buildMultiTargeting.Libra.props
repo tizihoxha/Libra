@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Libra.props" />
+</Project>
